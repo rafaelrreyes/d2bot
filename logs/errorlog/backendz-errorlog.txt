@@ -1,0 +1,9 @@
+<Mon, Jun 12, 02:28> - NTCatacombs.ntj : NTM_TakeWaypoint() failed
+<Mon, Jun 12, 02:30> - NTCatacombs.ntj : NTM_TakeStair() failed
+<Thu, Jun 15, 06:28> - NTNihlathaksTemple.ntj : NTA_KillMonster(526) failed
+<Thu, Jun 15, 08:43> - Error in NIP, line ignored: NTBot/item_configs/normal/unique.nip, line: 3
+<Thu, Jun 15, 12:23> - NTLostCity.ntj : NTM_TakeWaypoint() failed
+<Thu, Jun 15, 12:23> - NTDuranceOfHate.ntj : NTM_TakeWaypoint() failed
+<Thu, Jun 15, 12:23> - NTNihlathaksTemple.ntj : NTTM_CheckAct() failed
+<Thu, Jun 15, 15:54> - NTDuranceOfHate.ntj : NTM_TakeStair() failed
+<Thu, Jun 15, 22:49> - NTLostCity.ntj : NTTM_TownMove() failed
